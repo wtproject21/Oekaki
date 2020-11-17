@@ -7,9 +7,13 @@ You click button left side,and you can choose the function below.
 
 This can:
 redo,undo
+
 Dropper
+
 drag and drop
+
 fill
+
 pen tablet is enable
 
 
