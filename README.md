@@ -6,6 +6,7 @@ You click button left side,and you can choose the function below.
 
 
 This can:
+
 redo,undo
 
 Dropper
